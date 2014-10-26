@@ -1,0 +1,5 @@
+C:\Users\Mario\Documents\Visual Studio 2012\Projects\Defining-Classes\PC-Catalogue\bin\Debug\PC-Catalogue.exe
+C:\Users\Mario\Documents\Visual Studio 2012\Projects\Defining-Classes\PC-Catalogue\bin\Debug\PC-Catalogue.pdb
+C:\Users\Mario\Documents\Visual Studio 2012\Projects\Defining-Classes\PC-Catalogue\obj\Debug\02.PC-Catalogue.csprojResolveAssemblyReference.cache
+C:\Users\Mario\Documents\Visual Studio 2012\Projects\Defining-Classes\PC-Catalogue\obj\Debug\PC-Catalogue.exe
+C:\Users\Mario\Documents\Visual Studio 2012\Projects\Defining-Classes\PC-Catalogue\obj\Debug\PC-Catalogue.pdb

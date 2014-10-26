@@ -1,0 +1,5 @@
+c:\users\mario\documents\visual studio 2012\Projects\Inheritance-Abstraction\Human,Student and Worker\bin\Debug\Human,Student and Worker.exe
+c:\users\mario\documents\visual studio 2012\Projects\Inheritance-Abstraction\Human,Student and Worker\bin\Debug\Human,Student and Worker.pdb
+c:\users\mario\documents\visual studio 2012\Projects\Inheritance-Abstraction\Human,Student and Worker\obj\Debug\Human,Student and Worker.csprojResolveAssemblyReference.cache
+c:\users\mario\documents\visual studio 2012\Projects\Inheritance-Abstraction\Human,Student and Worker\obj\Debug\Human,Student and Worker.exe
+c:\users\mario\documents\visual studio 2012\Projects\Inheritance-Abstraction\Human,Student and Worker\obj\Debug\Human,Student and Worker.pdb

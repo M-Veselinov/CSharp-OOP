@@ -1,0 +1,4 @@
+c:\users\mario\documents\visual studio 2012\Projects\Delegates-and-Events\StudentClass\bin\Debug\StudentClass.exe
+c:\users\mario\documents\visual studio 2012\Projects\Delegates-and-Events\StudentClass\bin\Debug\StudentClass.pdb
+c:\users\mario\documents\visual studio 2012\Projects\Delegates-and-Events\StudentClass\obj\Debug\StudentClass.exe
+c:\users\mario\documents\visual studio 2012\Projects\Delegates-and-Events\StudentClass\obj\Debug\StudentClass.pdb

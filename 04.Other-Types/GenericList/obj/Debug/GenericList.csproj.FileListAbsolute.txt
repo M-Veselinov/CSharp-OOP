@@ -1,0 +1,5 @@
+C:\Users\Mario\Documents\Visual Studio 2012\Projects\Other-Types\GenericList\bin\Debug\GenericList.exe
+C:\Users\Mario\Documents\Visual Studio 2012\Projects\Other-Types\GenericList\bin\Debug\GenericList.pdb
+C:\Users\Mario\Documents\Visual Studio 2012\Projects\Other-Types\GenericList\obj\Debug\GenericList.csprojResolveAssemblyReference.cache
+C:\Users\Mario\Documents\Visual Studio 2012\Projects\Other-Types\GenericList\obj\Debug\GenericList.exe
+C:\Users\Mario\Documents\Visual Studio 2012\Projects\Other-Types\GenericList\obj\Debug\GenericList.pdb

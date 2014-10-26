@@ -1,0 +1,5 @@
+c:\users\mario\documents\visual studio 2012\Projects\Inheritance-Abstraction\School\bin\Debug\School.exe
+c:\users\mario\documents\visual studio 2012\Projects\Inheritance-Abstraction\School\bin\Debug\School.pdb
+c:\users\mario\documents\visual studio 2012\Projects\Inheritance-Abstraction\School\obj\Debug\School.csprojResolveAssemblyReference.cache
+c:\users\mario\documents\visual studio 2012\Projects\Inheritance-Abstraction\School\obj\Debug\School.exe
+c:\users\mario\documents\visual studio 2012\Projects\Inheritance-Abstraction\School\obj\Debug\School.pdb

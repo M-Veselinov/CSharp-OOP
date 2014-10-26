@@ -1,0 +1,2 @@
+c:\users\mario\documents\visual studio 2012\Projects\Exception-Handling\Exception-Handling\obj\Debug\Exception-Handling.exe
+c:\users\mario\documents\visual studio 2012\Projects\Exception-Handling\Exception-Handling\obj\Debug\Exception-Handling.pdb

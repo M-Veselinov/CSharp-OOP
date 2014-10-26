@@ -1,0 +1,5 @@
+C:\Users\Mario\Documents\Visual Studio 2012\Projects\Other-Types\FractionCalculator\bin\Debug\FractionCalculator.exe
+C:\Users\Mario\Documents\Visual Studio 2012\Projects\Other-Types\FractionCalculator\bin\Debug\FractionCalculator.pdb
+C:\Users\Mario\Documents\Visual Studio 2012\Projects\Other-Types\FractionCalculator\obj\Debug\FractionCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Mario\Documents\Visual Studio 2012\Projects\Other-Types\FractionCalculator\obj\Debug\FractionCalculator.exe
+C:\Users\Mario\Documents\Visual Studio 2012\Projects\Other-Types\FractionCalculator\obj\Debug\FractionCalculator.pdb

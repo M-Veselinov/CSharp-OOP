@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Laptop-Shop", "01.Laptop-Shop\01.Laptop-Shop.csproj", "{B00F8FA5-81AF-4CC8-81AA-943024AF993D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.PC-Catalogue", "PC-Catalogue\02.PC-Catalogue.csproj", "{F2E886CB-825A-46F1-802E-C65EE4907ACB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B00F8FA5-81AF-4CC8-81AA-943024AF993D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B00F8FA5-81AF-4CC8-81AA-943024AF993D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B00F8FA5-81AF-4CC8-81AA-943024AF993D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B00F8FA5-81AF-4CC8-81AA-943024AF993D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2E886CB-825A-46F1-802E-C65EE4907ACB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2E886CB-825A-46F1-802E-C65EE4907ACB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2E886CB-825A-46F1-802E-C65EE4907ACB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2E886CB-825A-46F1-802E-C65EE4907ACB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

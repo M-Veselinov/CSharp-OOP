@@ -1,0 +1,5 @@
+C:\Users\Mario\Documents\Visual Studio 2012\Projects\Inheritance-Abstraction\CompanyHierarchy\obj\Debug\CompanyHierarchy.csprojResolveAssemblyReference.cache
+C:\Users\Mario\Documents\Visual Studio 2012\Projects\Inheritance-Abstraction\CompanyHierarchy\bin\Debug\CompanyHierarchy.exe
+C:\Users\Mario\Documents\Visual Studio 2012\Projects\Inheritance-Abstraction\CompanyHierarchy\bin\Debug\CompanyHierarchy.pdb
+C:\Users\Mario\Documents\Visual Studio 2012\Projects\Inheritance-Abstraction\CompanyHierarchy\obj\Debug\CompanyHierarchy.exe
+C:\Users\Mario\Documents\Visual Studio 2012\Projects\Inheritance-Abstraction\CompanyHierarchy\obj\Debug\CompanyHierarchy.pdb

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shapes", "Polymorphism\Shapes.csproj", "{12E8D63B-75E2-47F9-9BD9-5B83497DE236}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankAccaunt", "BankAccaunt\BankAccaunt.csproj", "{078898E5-2AB3-4216-8C5B-D6E9F4C885CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12E8D63B-75E2-47F9-9BD9-5B83497DE236}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12E8D63B-75E2-47F9-9BD9-5B83497DE236}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12E8D63B-75E2-47F9-9BD9-5B83497DE236}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12E8D63B-75E2-47F9-9BD9-5B83497DE236}.Release|Any CPU.Build.0 = Release|Any CPU
+		{078898E5-2AB3-4216-8C5B-D6E9F4C885CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{078898E5-2AB3-4216-8C5B-D6E9F4C885CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{078898E5-2AB3-4216-8C5B-D6E9F4C885CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{078898E5-2AB3-4216-8C5B-D6E9F4C885CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

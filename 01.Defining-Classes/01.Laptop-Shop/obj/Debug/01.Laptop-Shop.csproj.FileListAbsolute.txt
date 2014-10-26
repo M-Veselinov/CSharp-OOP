@@ -1,0 +1,5 @@
+c:\users\mario\documents\visual studio 2012\Projects\Defining-Classes\01.Laptop-Shop\bin\Debug\01.Laptop-Shop.exe
+c:\users\mario\documents\visual studio 2012\Projects\Defining-Classes\01.Laptop-Shop\bin\Debug\01.Laptop-Shop.pdb
+c:\users\mario\documents\visual studio 2012\Projects\Defining-Classes\01.Laptop-Shop\obj\Debug\01.Laptop-Shop.csprojResolveAssemblyReference.cache
+c:\users\mario\documents\visual studio 2012\Projects\Defining-Classes\01.Laptop-Shop\obj\Debug\01.Laptop-Shop.exe
+c:\users\mario\documents\visual studio 2012\Projects\Defining-Classes\01.Laptop-Shop\obj\Debug\01.Laptop-Shop.pdb
